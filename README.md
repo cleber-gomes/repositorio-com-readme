@@ -10,12 +10,12 @@ Um projeto de teste com um arquivo README 👍
 
 ## Como utilizar
 
-1 - Clone para o projeto
+1 - Clone para o projeto :
 ```
 git clone <url>
 ```
 
-2 - Acesse a pasta do projeto
+2 - Acesse a pasta do projeto :
 ```
 cd repositorio-com-readme
 ```
